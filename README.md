@@ -1,4 +1,4 @@
-# OOP - Lab Day 1
+# NodeJS - Lab Day 1
 
 Demo: [https://drive.google.com/file/d/1FQ0h7d4rPx9_rFoqZrM9eBh42y18kgwj/view?usp=sharing]
 
